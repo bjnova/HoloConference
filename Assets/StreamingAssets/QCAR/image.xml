@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="stones_hires_a" size="0.247000 0.172900" />
+    <ImageTarget name="stones_hires_small" size="64.000000 44.799999" />
+    <ImageTarget name="stones_hires" size="720.000000 504.000000" />
+    <ImageTarget name="senses2" size="720.000000 480.000000" />
+    <ImageTarget name="senses_log_large" size="1920.000000 1280.000000" />
+    <ImageTarget name="senses_logo" size="60.000000 40.000000" />
+  </Tracking>
+</QCARConfig>
